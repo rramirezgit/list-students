@@ -10,7 +10,7 @@ const studentSchema = new Schema({
         type: String,
         trim: true,
         require: true
-    },    
+    },
     dni: {
         type: Number,
         trim: true,
@@ -26,4 +26,4 @@ const studentSchema = new Schema({
     timestamps: true // fecha de creacion y actualizacion
 });
 
-export default model('students', studentSchema) // nombre del modelo y schema
+export default model('estudiantes', studentSchema) // nombre del modelo y schema
