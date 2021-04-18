@@ -10,11 +10,12 @@ const studentSchema = new Schema({
         type: String,
         trim: true,
         require: true
-    },
-    email: {
-        type: String,
+    },    
+    dni: {
+        type: Number,
         trim: true,
-        require: true
+        require: true,
+        unique: true
     },
     avatarUrl: {
         type: String,
