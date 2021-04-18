@@ -2,3 +2,6 @@
 /api/.env
 /api/node_modules
 /api/dist
+
+#FRONTEND
+/frontend/node_modules
