@@ -1,0 +1,14 @@
+.studentEdit__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+  color: #ffffff;
+
+  display: flex;
+  justify-content: center;
+}
+
+.studentEdit__hero-image {
+  max-height: 100px;
+}

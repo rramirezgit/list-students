@@ -1,0 +1,103 @@
+{
+  "students": [
+    {
+      "id": "f1183526-aff1-46da-8bfb-976563c6f696",
+      "firstName": "Karlee",
+      "lastName": "Satterfield",
+      "email": "KarleeSatterfield@example.com",
+      "jobTitle": "Chief Accounts Agent",
+      "linkeding": "KarleeSatterfield32692-9732",
+      "avatarUrl": "https://www.gravatar.com/avatar/c2d679f9b44e1869548ab95aac18b7c9?d=identicon"
+    },
+    {
+      "id": "49026077-38f1-42e4-9f00-e230e04effa9",
+      "firstName": "Ernie",
+      "lastName": "Schmidt",
+      "email": "Shemar63@yahoo.com",
+      "jobTitle": "Dynamic Accounts Coordinator",
+      "linkeding": "ErnieSchmidt56445-6854",
+      "avatarUrl": "https://www.gravatar.com/avatar/6a7e6f60ad63c102322894ab94a26f2f?d=identicon"
+    },
+    {
+      "id": "a6aeca9b-a7c1-45d2-b970-0121c682402a",
+      "firstName": "Kelly",
+      "lastName": "Corkery",
+      "email": "Van_Schimmel@yahoo.com",
+      "jobTitle": "Dynamic Tactics Liaison",
+      "linkeding": "KellyCorkery06275-3676",
+      "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Kaufman",
+      "email": "richardbkaufman@gmail.com",
+      "jobTitle": "Frontend Engineer",
+      "linkeding": "sparragus",
+      "id": "DbY1vXd"
+    },
+    {
+      "firstName": "Carolynn",
+      "lastName": "Kaufman",
+      "email": "carolynn@example.com",
+      "jobTitle": "Lawyer",
+      "linkeding": "sparragus",
+      "id": "7medAJ4"
+    },
+    {
+      "firstName": "Snoopy",
+      "lastName": "Kaufman",
+      "email": "snoopy@example.com",
+      "jobTitle": "Super Dog",
+      "linkeding": "snoopysuperdog",
+      "id": "Tab9I7W"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Quiñonez",
+      "email": "manny2007q@example.com",
+      "jobTitle": "Productor de Cine",
+      "linkeding": "mannyfilms1",
+      "id": "n8SkH8I"
+    },
+    {
+      "firstName": "María José",
+      "lastName": "Sánchez",
+      "email": "majosanchez@example.com",
+      "jobTitle": "Historiadora del Arte",
+      "linkeding": "majosanchez",
+      "id": "QfvvQpO"
+    },
+    {
+      "firstName": "Mónica",
+      "lastName": "Guzmán",
+      "email": "monicaguzman@example.com",
+      "jobTitle": "Filósofa del Feminismo",
+      "linkeding": "monicaguzman",
+      "id": "bACOxRF"
+    },
+    {
+      "firstName": "Monserrat",
+      "lastName": "López",
+      "email": "monselopez@example.com",
+      "jobTitle": "Agente de Ventas",
+      "linkeding": "monse",
+      "id": "mTqZDKW"
+    },
+    {
+      "firstName": "vcxcvb",
+      "lastName": "vcxbcv",
+      "email": "97.rramirez@gmail.com",
+      "jobTitle": "bvcx",
+      "linkeding": "cbxv",
+      "id": "A3reDrn"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "jobTitle": "",
+      "linkeding": "",
+      "id": "bjiCyb_"
+    }
+  ]
+}

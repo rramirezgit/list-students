@@ -1,29 +1,31 @@
 import React from 'react';
 
-import './styles/Student.css';
-import { Gravatar } from './Gravatar';
+import './styles/student.css';
+import Gravatar from './Gravatar';
 
-
-export const Student = ({ firstName, lastName, dni, email }) => {
-  return (
-    <>
-      <div className="Student">
-        <div className="Student__header">
+class Student extends React.Component {
+  render() {
+    return (
+      <div className="student">
+        <div className="student__header">
         </div>
 
-        <div className="Student__section-name">
-          <Gravatar email={email} className="Student__avatar" />
+        <div className="student__section-name">
+          <Gravatar className="student__avatar" email={this.props.email} />
           <h1>
-            {firstName} <br /> {lastName}
+            {this.props.firstName} <br /> {this.props.lastName}
           </h1>
         </div>
 
-        <div className="Student__section-info">
-          <div>DNI:{dni}</div>
+        <div className="student__section-info">
+          <h3>{this.props.jobTitle}</h3>
+          <div>{this.props.linkeding}</div>
         </div>
 
+        {/* <div className="student__footer">#studentconf</div> */}
       </div>
-    </>
-  )
+    );
+  }
 }
 
+export default Student;
