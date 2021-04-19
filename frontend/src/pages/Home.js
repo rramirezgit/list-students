@@ -19,7 +19,7 @@ export default class Home extends Component {
 
               <h1>Listado de Estudiantes</h1>
               <Link className="btn btn-primary" to="/students">
-                Start
+                Ir al Listado!
               </Link>
             </div>
 

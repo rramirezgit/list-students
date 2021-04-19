@@ -1,6 +1,14 @@
 {
   "students": [
     {
+      "firstName": "Ricardo",
+      "lastName": "Ramriez",
+      "email": "97.rramirez@gmail.com",
+      "jobTitle": "Developer",
+      "linkeding": "https://www.linkedin.com/in/ricardoramirez-/",
+      "id": "A3reDrn"
+    },
+    {
       "id": "f1183526-aff1-46da-8bfb-976563c6f696",
       "firstName": "Karlee",
       "lastName": "Satterfield",
@@ -26,14 +34,6 @@
       "jobTitle": "Dynamic Tactics Liaison",
       "linkeding": "KellyCorkery06275-3676",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
-    },
-    {
-      "firstName": "Richard",
-      "lastName": "Kaufman",
-      "email": "richardbkaufman@gmail.com",
-      "jobTitle": "Frontend Engineer",
-      "linkeding": "sparragus",
-      "id": "DbY1vXd"
     },
     {
       "firstName": "Carolynn",
@@ -82,22 +82,6 @@
       "jobTitle": "Agente de Ventas",
       "linkeding": "monse",
       "id": "mTqZDKW"
-    },
-    {
-      "firstName": "vcxcvb",
-      "lastName": "vcxbcv",
-      "email": "97.rramirez@gmail.com",
-      "jobTitle": "bvcx",
-      "linkeding": "cbxv",
-      "id": "A3reDrn"
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "jobTitle": "",
-      "linkeding": "",
-      "id": "bjiCyb_"
-    }
+    }     
   ]
 }
